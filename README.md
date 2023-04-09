@@ -1,2 +1,2 @@
 # Certificates
-e-Learning,Inter/Intra College competitions,Workshop Certificates
+e-Learning,Inter/Intra College competitions,Workshops,Internship Certificates
